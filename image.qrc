@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>smallhorse.png</file>
+        <file>exit.png</file>
+        <file>horse.png</file>
+    </qresource>
+    <qresource prefix="/control">
+        <file>playeStart.png</file>
+        <file>playeStart2.png</file>
+        <file>playeStop.png</file>
+    </qresource>
+    <qresource prefix="/chat">
+        <file>chat_Finish.png</file>
+        <file>chat_Start.png</file>
+        <file>chat_Stop.png</file>
+    </qresource>
+</RCC>
